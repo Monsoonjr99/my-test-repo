@@ -1,1 +1,3 @@
 some text
+
+a third line of <code>
